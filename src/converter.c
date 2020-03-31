@@ -29,3 +29,10 @@ double millimetres_to_centimetres(double millimetres)
   centimetres = millimetres/MILLIMETRES_IN_CENTIMETRE;
   return centimetres;
 }
+
+double centimetres_to_metres(double centimetres)
+{
+  double metres;
+  metres = centimetres/CENTIMETRES_IN_METRE;
+  return metres;
+}
