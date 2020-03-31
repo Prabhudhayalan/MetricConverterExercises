@@ -14,7 +14,7 @@
  * pass, then push your changes */
 
 double centimetres_to_millimetres(double centimetres);
-//double metres_to_centimetres(double metres);
+double metres_to_centimetres(double metres);
 // double kilometres_to_metres(double kilometres);
 
 /* Task 3: Uncomment the following functions one by one and provide

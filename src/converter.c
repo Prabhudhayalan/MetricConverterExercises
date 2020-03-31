@@ -8,3 +8,8 @@ double centimetres_to_millimetres(double centimetres)
 
   return millimetres;
 }
+
+double metres_to_centimetres(double metres);
+{
+  metres = metres / CENTIMETRES_IN_METRE
+}
