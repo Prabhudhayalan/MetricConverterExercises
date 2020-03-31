@@ -23,9 +23,9 @@ double kilometres_to_metres(double kilometres);
  * committed, uncomment the corresponding tests in main.c, make sure that they
  * pass, then push your changes */
 
-double millimetres_to_centimetres(double millimetres);
-double centimetres_to_metres(double centimetres);
-double metres_to_kilometres(double metres);
+//double millimetres_to_centimetres(double millimetres);
+//double centimetres_to_metres(double centimetres);
+//double metres_to_kilometres(double metres);
 
 /* Task 4: Uncomment the following functions one by one and provide
  * implementations for them in converter.c. After you implement a function,
@@ -33,8 +33,8 @@ double metres_to_kilometres(double metres);
  * committed, uncomment the corresponding tests in main.c, make sure that they
  * pass, then push your changes */
 
-double metres_to_millimetres(double metres);
-// double millimetres_to_metres(double millimetres);
+//double metres_to_millimetres(double metres);
+//double millimetres_to_metres(double millimetres);
 // double kilometres_to_millimetres(double kilometres);
 // double millimetres_to_kilometres(double millimetres);
 // double kilometres_to_centimetres(double kilometres);
