@@ -2,6 +2,10 @@
 #define CONVERTER_H
 
 /* Task 1: Add your #defines here */
+#define MILLIMETRES IN CENTIMETRE 10
+#define CENTIMETRES IN METRE 100
+#define METRES IN KILOMETRE 1000
+
 
 /* Task 2: Uncomment the following functions one by one and provide
  * implementations for them in converter.c. After you implement a function,
