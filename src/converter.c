@@ -46,3 +46,11 @@ double metres_to_kilometres(double metres)
   kilometres = metres/METRES_IN_KILOMETRE;
   return kilometres;
 }
+
+//implemented task4
+double metres_to_millimetres(double metres)
+{
+  double millimetres;
+  millimetres = metres_to_centimetres * centimetres_to_millimetres
+  return millimetres;
+}
