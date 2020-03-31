@@ -1,5 +1,5 @@
 #include "tests/tests_task2.h"
-// #include "tests/tests_task3.h"
+#include "tests/tests_task3.h"
 // #include "tests/tests_task4.h"
 
 int main() {
@@ -11,9 +11,9 @@ int main() {
 
   /* Task 3 */
 
-  // test_millimetres_to_centimetres();
-  // test_centimetres_to_metres();
-  // test_metres_to_kilometres();
+  test_millimetres_to_centimetres();
+  test_centimetres_to_metres();
+  test_metres_to_kilometres();
 
   /* Task 4 */
 
