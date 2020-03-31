@@ -22,3 +22,10 @@ double kilometres_to_metres(double kilometres)
   metres = kilometres * METRES_IN_KILOMETRE;
   return metres;
 }
+
+double millimetres_to_centimetres(double millimetres)
+{
+  double centimetres;
+  centimetres = millimetres/MILLIMETRES_IN_CENTIMETRE;
+  return centimetres;
+}
