@@ -29,6 +29,20 @@ double kilometres_to_metres(double kilometres)
 double millimetres_to_centimetres(double millimetres)
 {
   double centimetres;
-  centimetres = millimetres/MILLIMETRES_IN_CENTIMETRE;
+  centimetres = millimetres / MILLIMETRES_IN_CENTIMETRE;
   return centimetres;
+}
+
+double centimetres_to_metres(double centimetres)
+{
+  double metres;
+  metres = centimetres / CENTIMETRES_IN_METRE;
+  return metres;
+}
+
+double metres_to_kilometres(double metres)
+{
+  double kilometres;
+  kilometres = metres / METRES_IN_KILOMETRE;
+  return kilometres;
 }
