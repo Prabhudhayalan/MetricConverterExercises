@@ -2,9 +2,9 @@
 #define CONVERTER_H
 
 /* Task 1: Add your #defines here */
-#define MILLIMETRESINCENTIMETRE 10
-#define CENTIMETRESINMETRE 100
-#define METRESINKILOMETRE 1000
+#define MILLIMETRES_IN_CENTIMETRE 10
+#define CENTIMETRES_IN_METRE 100
+#define METRES_IN_KILOMETRE 1000
 
 
 /* Task 2: Uncomment the following functions one by one and provide
