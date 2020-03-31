@@ -9,14 +9,14 @@ double centimetres_to_millimetres(double centimetres)
   return millimetres;
 }
 
-double metres_to_centimetres(double metres);
+double metres_to_centimetres(double metres)
 {
   double centimetres;
-  metres = metres * CENTIMETRES_IN_METRE;
+  centimetres = metres * CENTIMETRES_IN_METRE;
   return centimetres;
 }
 
-double kilometres_to_metres(double kilometres);
+double kilometres_to_metres(double kilometres)
 {
   double metres;
   metres = kilometres * METRES_IN_KILOMETRE;
