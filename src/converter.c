@@ -57,6 +57,14 @@ double metres_to_millimetres(double metres)
   return millimetres;
 }
 
+double millimetres_to_metres(double millimetres)
+{
+  double metres,centimetres;
+  centimetres = millimetres_to_centimetres(millimetres);
+  metres = centimetres_to_metres(centimetres);
+  return metres;
+}
+
 double kilometres_to_millimetres(double kilometres)
 {
   double millimetres,metres;
